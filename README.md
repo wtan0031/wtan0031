@@ -1,4 +1,4 @@
-# Wei Liang
+# Hi there 👋🏻
 I'm Wei Liang from Malaysia 🇲🇾, and I specialise in iOS Development. I really enjoy learning new technology when comes to App Development.
 
 ## Skills: 
