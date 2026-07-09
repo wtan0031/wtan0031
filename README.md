@@ -16,7 +16,7 @@
 
 I build and ship **production iOS apps** — the kind that handle real money and real users. Most of my day-to-day work lives in private company repos, so this profile is a snapshot of how I work and what I've shipped rather than a wall of stars.
 
-- 🏦 **Currently** — Mobile Developer (iOS) at **Definitiv**
+- 🏦 **Currently** — Mobile Developer (iOS) at **Definitiv** (part of **The Access Group**)
 - 🚀 **Previously** — Software Engineer, Mobile (iOS) at **GX Bank** — an early engineer on one of Malaysia's first digital banks, shipping the consumer iOS app from the ground up
 - 🧩 **I care about** — correctness, clean release process, and code that the next engineer can read. Fintech taught me that "it works on my machine" isn't good enough.
 - 📱 **Focus** — SwiftUI · UIKit · MVVM · SwiftData · StoreKit · app architecture, testing, and App Store delivery
@@ -34,6 +34,7 @@ I build and ship **production iOS apps** — the kind that handle real money and
 ### 📫 Reach me
 
 - ✉️ **wtan0031@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/wei-liang-tan-67aa29122/)
 - ▶️ [YouTube](https://www.youtube.com/channel/UCwXonA_0fAamk-32FvUhLyg)
 
 <p align="center"><sub>Open to interesting iOS work and open-source collaboration.</sub></p>
