@@ -42,6 +42,5 @@ I build and ship **production iOS apps** — the kind that handle real money and
 
 - ✉️ **wtan0031@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/wei-liang-tan-67aa29122/)
-- ▶️ [YouTube](https://www.youtube.com/channel/UCwXonA_0fAamk-32FvUhLyg)
 
 <p align="center"><sub>Open to interesting iOS work and open-source collaboration.</sub></p>
