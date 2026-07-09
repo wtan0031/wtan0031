@@ -27,6 +27,13 @@ I build and ship **production iOS apps** — the kind that handle real money and
 - **Test what matters.** Unit and UI tests around the logic that would actually hurt users if it broke.
 - **Leave a trail.** Clear PRs, documented decisions, and code reviewed like someone's money depends on it — because it usually does.
 
+### 🔨 Selected work
+
+**[CrucibleCraft](https://cruciblecraft.com)** — my indie iOS studio. *"Software forged to last"* — every app ships only after rigorous testing. No VC, no growth hacks, no shortcuts.
+
+- **Bayarsama** — bill-splitting app, **live on the App Store**. Splits any bill item by item, auto-calculates taxes and service charges across 13 currencies, and shares each person's share via WhatsApp or PDF.
+- More in the crucible 🔥
+
 ### Tech I reach for
 
 `Swift` · `SwiftUI` · `UIKit` · `SwiftData` / `Core Data` · `Combine` · `async/await` · `StoreKit 2` · `Firebase` · `XCTest` / `Swift Testing` · `Git` · Python for tooling
