@@ -36,11 +36,10 @@ A year ago I wrote every line by hand. Today agents are my default tool, and I r
 The rule I hold myself to: **"it ran" is not "it worked."** For anything an agent generates, I define the check that proves it's correct *before* generating, and run it every time. Agents write a lot of my code; the judgement about what ships is still mine.
 
 ### 📊 Agent-assisted delivery, by the numbers
-<sub>30 Jun – 19 Oct 2026 · from git history and local agent logs ([ccusage](https://github.com/ryoppippi/ccusage))</sub>
 
 | | |
 |---|---|
-| **Shipped** | **3,300+ GitHub contributions** (active 108 of 112 days) · **680+ merged PRs** across 11 personal repos |
+| **Shipped** | **3,300+ GitHub contributions** since 30 Jun (active 108 of 112 days) · **680+ merged PRs** across 11 personal repos |
 | **Tooling** | **38 custom agent skills** for review, auditing, release and SwiftUI checks — some open-sourced in [agent-skills](https://github.com/wtan0031/agent-skills) |
 | **Agent usage** | **≈12B tokens** since 30 Jun across Claude Code and Codex — 6.2B+ measured with ccusage, the rest estimated for Claude Code logs deleted before mid-September |
 | **Verification** | Agent changes go through tests and a review step — 27 unit-test files guard the maths in one unattended pipeline |
