@@ -65,7 +65,7 @@ The rule I hold myself to: **"it ran" is not "it worked."** For anything an agen
 
 `Swift` · `SwiftUI` · `UIKit` · `SwiftData` / `Core Data` · `Combine` · `async/await` · `StoreKit 2` · `Kotlin Multiplatform` · `Compose Multiplatform` · `Firebase` · `XCTest` / `Swift Testing` · `Fastlane` · `Git` · Python for tooling
 
-**Agents:** `Claude Code` · `Codex` · `Copilot` · `Gemini`
+**Agents:** `Claude Code` · `Codex`
 
 ### 📫 Reach me
 
