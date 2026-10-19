@@ -31,9 +31,23 @@ I build and ship **production iOS apps** — the kind that handle real money and
 
 ### 🤖 How I build with agents
 
-A year ago I wrote every line by hand. Today agents are my default tool, and I run a personal library of agent skills — release notes, feature docs, scaffolding — tailored to how I ship. That's what lets one engineer keep three apps moving.
+A year ago I wrote every line by hand. Today agents are my default tool, and I run a [personal library of agent skills](https://github.com/wtan0031/agent-skills) — release notes, feature docs, scaffolding — tailored to how I ship. That's what lets one engineer keep three apps moving.
 
 The rule I hold myself to: **"it ran" is not "it worked."** For anything an agent generates, I define the check that proves it's correct *before* generating, and run it every time. Agents write a lot of my code; the judgement about what ships is still mine.
+
+### 📊 Agent-assisted delivery, by the numbers
+<sub>30 Jun – 19 Oct 2026 · from git history and local agent logs ([ccusage](https://github.com/ryoppippi/ccusage))</sub>
+
+| | |
+|---|---|
+| **Shipped** | **1,960+ commits · 680+ merged PRs** across 11 personal repos |
+| **Tooling** | **38 custom agent skills** for review, auditing, release and SwiftUI checks — some open-sourced in [agent-skills](https://github.com/wtan0031/agent-skills) |
+| **Agent usage** | **6.2B+ tokens measured** with ccusage |
+| **Verification** | Agent changes go through tests and a review step — 27 unit-test files guard the maths in one unattended pipeline |
+
+- **Parallel, isolated work.** Independent tasks run as separate agent sessions, each in its own git worktree and ending in its own PR.
+- **Agents read; rules decide.** My scheduled pipelines run agents unsupervised, so every number comes from unit-tested code, and a tool deny-list blocks any write to an external account.
+- **Usage is a budget.** I measure usage with ccusage and my own [`/token-report`](https://github.com/wtan0031/agent-skills/tree/main/skills/token-report), and treat tokens as a cost, not a free resource.
 
 ### 🔨 Selected work
 
