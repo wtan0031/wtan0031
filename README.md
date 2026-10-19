@@ -42,7 +42,7 @@ The rule I hold myself to: **"it ran" is not "it worked."** For anything an agen
 |---|---|
 | **Shipped** | **1,960+ commits · 680+ merged PRs** across 11 personal repos |
 | **Tooling** | **38 custom agent skills** for review, auditing, release and SwiftUI checks — some open-sourced in [agent-skills](https://github.com/wtan0031/agent-skills) |
-| **Agent usage** | **≈12B tokens** since 30 Jun across Claude Code, Codex, Copilot and Gemini — 6.2B+ measured with ccusage, the rest estimated for Claude Code logs deleted before mid-September |
+| **Agent usage** | **≈12B tokens** since 30 Jun across Claude Code and Codex — 6.2B+ measured with ccusage, the rest estimated for Claude Code logs deleted before mid-September |
 | **Verification** | Agent changes go through tests and a review step — 27 unit-test files guard the maths in one unattended pipeline |
 
 - **Parallel, isolated work.** Independent tasks run as separate agent sessions, each in its own git worktree and ending in its own PR.
